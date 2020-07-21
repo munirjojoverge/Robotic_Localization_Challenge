@@ -1,0 +1,7 @@
+angle_fov: 25.0
+sensor_noise_distance: 0.2
+sensor_noise_orientation: 0.2
+odom_noise_rotation_from_rotation: 0.05
+odom_noise_rotation_from_translation: 0.05
+odom_noise_translation_from_translation: 1.0
+odom_noise_translation_from_rotation: 0.05
